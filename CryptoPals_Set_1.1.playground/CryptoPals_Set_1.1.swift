@@ -1,5 +1,3 @@
-//************************************************* CryptoPals Challenge *****************************
-//Set 1
 print("CryptoPals Challenge Set 1.1\n")
 // Print strings
 let pStep = ["Input hex string:", "\nStep 1: Converts the hex string into bytes\n", "\nStep 2: Translates the bytes into an array of 8-bit binary values \n",
